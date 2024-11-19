@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Mengabaikan seluruh folder assets
+src/assets/
